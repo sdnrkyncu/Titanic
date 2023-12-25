@@ -1,8 +1,8 @@
 # Titanic
 
 I started this project for the indivudial purpose of practising what I learn from the book "Hands-On Machine Learning" by Aurélien Géron 
-on another dataset (titanic) different from the dataset used in the book. However, along the way I realized that this project could be very 
-useful for others who want to learn machine learning. So, I decided to prepare it nicer firstly for myself for future refence, and for others. 
+on another dataset (titanic) different from the dataset used in the book. However, along the way I realized that this project could be 
+useful also for others who want to learn machine learning. So, I decided to prepare it nicer firstly for myself for future refence, and for others. 
 
 
 Some important features of the project:
